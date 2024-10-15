@@ -1,0 +1,1 @@
+# Crie um algoritmo que receba 5 números e exiba o maior e o menor número informados.
